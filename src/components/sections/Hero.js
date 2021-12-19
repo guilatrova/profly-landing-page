@@ -69,9 +69,9 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://profly.app/">
+                  {/* <Button tag="a" color="primary" wideMobile href="https://profly.app/">
                     Get started
-                  </Button>
+                  </Button> */}
                   {/* <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
                     View on Github
                   </Button> */}
