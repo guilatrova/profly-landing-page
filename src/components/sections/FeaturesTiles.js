@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: "Focus on what really matters",
-    paragraph: "Tracking expenses is boring, time-consuming and guilty-driven. We fixed that for you!"
+    paragraph: "Tracking expenses is boring, time-consuming, and guilt-driven. We fixed that for you!"
   };
 
   return (
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Easy Visualization
+                    Clear Visualization
                   </h4>
                   <p className="m-0 text-sm">
-                    Spot how much you have saved and how much you invested in a blink of an eye.
+                    Understand your money in a blink of an eye. Visualize data and decisions within context.
                   </p>
                 </div>
               </div>
@@ -115,7 +115,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Reflect on Decisions
+                    Reflexive Decisions
                   </h4>
                   <p className="m-0 text-sm">
                     Are you buying a stock because of the hype? Why are you selling? Be thoughtful on your emotions.

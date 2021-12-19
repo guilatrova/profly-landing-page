@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Made to be easy',
-    paragraph: 'Insightful data to improve your decision-making.'
+    paragraph: 'Minimalist screens to answer your questions. Insights to improve your decision-making.'
   };
 
   return (
@@ -70,10 +70,10 @@ const FeaturesSplit = ({
                   Simple workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Quick answers
+                  Quick answers 💬
                 </h3>
                 <p className="m-0">
-                  “Where is my money?” should be an easy question to answer — now it is. <br />Overview of all your investiments right there. 👉
+                  “Where is my money?” should be an easy question to answer — now it is. <br />Overview of all your investments right there. 👉
                 </p>
               </div>
               <div className={
@@ -96,7 +96,7 @@ const FeaturesSplit = ({
                   Simple workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data with context
+                  Data within context 🪢
                   </h3>
                 <p className="m-0">
                   Is the hype driving your decisions? Are you selling because of a sudden drop? <br /> 🟢 Buy and 🔴 Sell decisions spread over the chart.
@@ -122,10 +122,10 @@ const FeaturesSplit = ({
                   Simple workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  “Emoji-driven” analysis
+                  “Emoji-driven” analysis 🤔
                   </h3>
                 <p className="m-0">
-                  See how your emotions are affecting your decisions, and ultimately, learn from past mistakes.
+                  See how your emotions affect your decisions, and ultimately, learn from past mistakes. 🔮
                 </p>
               </div>
               <div className={
