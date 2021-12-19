@@ -19,16 +19,7 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <Link to="#0">Contact</Link>
-        </li>
-        <li>
-          <Link to="#0">About us</Link>
-        </li>
-        <li>
-          <Link to="#0">FAQ's</Link>
-        </li>
-        <li>
-          <Link to="#0">Support</Link>
+          <a href="https://twitter.com/messages/compose?recipient_id=992147115227975686" target="_blank" rel="noopener noreferrer">Contact</a>
         </li>
       </ul>
     </nav>
