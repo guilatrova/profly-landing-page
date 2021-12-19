@@ -18,14 +18,8 @@ const Logo = ({
       {...props}
       className={classes}
     >
-      <h1 className="m-0">
-        <Link to="/">
-          <Image
-            src={require('./../../../assets/images/logo.svg')}
-            alt="Open"
-            width={32}
-            height={32} />
-        </Link>
+      <h1 className="m-0 logo-text">
+        profly <span className="text-color-primary">BETA</span>
       </h1>
     </div>
   );
