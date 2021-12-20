@@ -2,6 +2,10 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=14 <15",
+    "npm": ">=8"
+  },
   "dependencies": {
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
