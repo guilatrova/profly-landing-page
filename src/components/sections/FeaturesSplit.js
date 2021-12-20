@@ -70,7 +70,7 @@ const FeaturesSplit = ({
                   Simple workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Quick answers 💬
+                  Quick answers <span role="img" aria-label="speech balloon">💬</span>
                 </h3>
                 <p className="m-0">
                   “Where is my money?” should be an easy question to answer — now it is. <br />Overview of all your investments right there. 👉
@@ -122,10 +122,10 @@ const FeaturesSplit = ({
                   Simple workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  “Emoji-driven” analysis 🤔
+                  “Emoji-driven” analysis <span role="img" aria-label="thinking face">🤔</span>
                   </h3>
                 <p className="m-0">
-                  See how your emotions affect your decisions, and ultimately, learn from past mistakes. 🔮
+                  See how your emotions affect your decisions, and ultimately, learn from past mistakes. <span role="img" aria-label="crystal ball">🔮</span>
                 </p>
               </div>
               <div className={
