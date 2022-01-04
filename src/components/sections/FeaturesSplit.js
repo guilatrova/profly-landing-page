@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Quick answers <span role="img" aria-label="speech balloon">💬</span>
                 </h3>
                 <p className="m-0">
-                  “Where is my money?” should be an easy question to answer — now it is. <br />Overview of all your investments right there. 👉
+                  “Where is my money?” should be an easy question to answer — now it is. <br />Overview of all your investments right there.
                 </p>
               </div>
               <div className={

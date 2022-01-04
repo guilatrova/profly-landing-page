@@ -44,7 +44,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "Focus on what really matters",
+    title: "Focus on what matters",
     paragraph: "Tracking expenses is boring, time-consuming, and guilt-driven. We fixed that for you!"
   };
 

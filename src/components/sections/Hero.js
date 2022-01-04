@@ -51,7 +51,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Profly is the finance tracker that doesn't judge you by your spends, but helps you focus on the only thing that really matters! Savings and Investing.
+                Profly is the finance tracker that doesn't judge you by your spends, but helps you focus on what matters! Savings and Investing.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
