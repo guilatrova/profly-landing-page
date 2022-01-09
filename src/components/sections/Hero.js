@@ -64,9 +64,9 @@ const Hero = ({
                 </ButtonGroup>
                 <br />
 
-                <a href="https://www.producthunt.com/posts/tryceratops?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tryceratops" target="_blank" rel="noopener noreferrer">
-                    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=311924&theme=dark" alt="Profly - The effortless finane tracker for busy people | Product Hunt" width="250px" height="54px" />
-                  </a>
+                <a href="https://www.producthunt.com/posts/profly?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-profly" target="_blank" rel="noopener noreferrer">
+                  <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=326154&theme=dark" alt="Profly - The effortless finance tracker for busy people | Product Hunt" width="250px" height="54px" />
+                </a>
               </div>
             </div>
           </div>
